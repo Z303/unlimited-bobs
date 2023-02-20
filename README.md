@@ -1,5 +1,5 @@
 # Unlimited Bobs
-![A number of grey spheres following a circular pattern with a counter in the bottom right](./unlimited-bobs.gif)
+![A number of grey spheres following a circular pattern with a counter in the bottom right](unlimited.gif)
 
 An unlimited Bobs effect for the TIC-80
 
